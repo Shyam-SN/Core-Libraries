@@ -1,0 +1,2 @@
+add_executable(demo_mlp_mnist demo_mlp_mnist.cpp)
+target_link_libraries(demo_mlp_mnist PRIVATE deeplearningcore)
