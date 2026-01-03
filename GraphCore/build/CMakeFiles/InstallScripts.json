@@ -1,0 +1,16 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/_deps/googletest-build/googletest/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/_deps/benchmark-build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/_deps/benchmark-build/src/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/tests/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/benchmarks/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/examples/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GraphCore/build/qt_app/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
