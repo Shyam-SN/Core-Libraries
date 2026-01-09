@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvisioncore.a CMakeFiles/visioncore.dir/src/utils/image_io.cpp.o
+/usr/bin/ranlib libvisioncore.a
