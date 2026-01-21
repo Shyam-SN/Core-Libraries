@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/demo_graph_studio.dir/demo_graph_studio.cpp.o -o demo_graph_studio  ../libgraphcore.a
