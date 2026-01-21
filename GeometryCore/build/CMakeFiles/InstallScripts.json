@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/_deps/googletest-build/googletest/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/_deps/benchmark-build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/_deps/benchmark-build/src/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/tests/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/benchmarks/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/GeometryCore/build/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
