@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/graphcore.dir/src/algorithms/centrality.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/centrality.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/cliques.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/cliques.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/coloring.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/coloring.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/community.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/community.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/connectivity.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/connectivity.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/directed_dag.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/directed_dag.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/flow.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/flow.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/matching.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/matching.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/mst.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/mst.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/shortest_path.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/shortest_path.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/algorithms/traversal.cpp.o"
+  "CMakeFiles/graphcore.dir/src/algorithms/traversal.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/generators/graph_generators.cpp.o"
+  "CMakeFiles/graphcore.dir/src/generators/graph_generators.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/graph/csr_graph.cpp.o"
+  "CMakeFiles/graphcore.dir/src/graph/csr_graph.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/graph/graph.cpp.o"
+  "CMakeFiles/graphcore.dir/src/graph/graph.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/layouts/force_directed.cpp.o"
+  "CMakeFiles/graphcore.dir/src/layouts/force_directed.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/utils/union_find.cpp.o"
+  "CMakeFiles/graphcore.dir/src/utils/union_find.cpp.o.d"
+  "CMakeFiles/graphcore.dir/src/visualization/animation_engine.cpp.o"
+  "CMakeFiles/graphcore.dir/src/visualization/animation_engine.cpp.o.d"
+  "libgraphcore.a"
+  "libgraphcore.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/graphcore.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
