@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/pointcloudcore_benchmarks.dir/bench_sampling_fpfh.cpp.o -o pointcloudcore_benchmarks  ../libpointcloudcore.a ../_deps/benchmark-build/src/libbenchmark_main.a ../_deps/benchmark-build/src/libbenchmark.a
