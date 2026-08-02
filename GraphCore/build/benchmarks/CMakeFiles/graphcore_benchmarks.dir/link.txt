@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/graphcore_benchmarks.dir/bench_algorithms.cpp.o -o graphcore_benchmarks  ../libgraphcore.a ../_deps/benchmark-build/src/libbenchmark_main.a ../_deps/benchmark-build/src/libbenchmark.a
