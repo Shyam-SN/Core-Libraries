@@ -1,0 +1,2 @@
+add_executable(demo_registration_segmentation demo_registration_segmentation.cpp)
+target_link_libraries(demo_registration_segmentation PRIVATE pointcloudcore)
