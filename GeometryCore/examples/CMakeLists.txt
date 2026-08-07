@@ -1,0 +1,2 @@
+add_executable(demo_icp_marching_cubes demo_icp_marching_cubes.cpp)
+target_link_libraries(demo_icp_marching_cubes PRIVATE geometrycore)

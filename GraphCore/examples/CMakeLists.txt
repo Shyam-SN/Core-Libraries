@@ -1,0 +1,2 @@
+add_executable(demo_graph_studio demo_graph_studio.cpp)
+target_link_libraries(demo_graph_studio PRIVATE graphcore)
