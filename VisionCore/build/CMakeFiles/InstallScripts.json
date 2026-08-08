@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/prathima/Desktop/Shyam/VisionCore/build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/VisionCore/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/VisionCore/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/VisionCore/build/_deps/googletest-build/googletest/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/VisionCore/build/_deps/benchmark-build/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/VisionCore/build/_deps/benchmark-build/src/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/VisionCore/build/tests/cmake_install.cmake",
+		"/Users/prathima/Desktop/Shyam/VisionCore/build/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
