@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, cleanup/job-ready ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cmake ninja-build g++
+
+      - name: Configure CMake
+        run: cmake -B build -S . -DCMAKE_BUILD_TYPE=Release
+
+      - name: Build target binaries
+        run: cmake --build build -j$(nproc)
+
+      - name: Run unit test suites
+        run: ctest --test-dir build --output-on-failure
